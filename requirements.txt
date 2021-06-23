@@ -1,0 +1,5 @@
+requests
+mitmproxy
+paho-mqtt
+frida-tools
+cryptography
